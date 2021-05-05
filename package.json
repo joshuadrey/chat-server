@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "name": "chat-server",
+  "description": "<img src=\"https://s3.amazonaws.com/devmountain/readme-logo.png\" width=\"250\" align=\"right\">",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuadrey/chat-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuadrey/chat-server/issues"
+  },
+  "homepage": "https://github.com/joshuadrey/chat-server#readme"
+}
